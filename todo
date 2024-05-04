@@ -1,0 +1,4 @@
+✔ 1. stemming, tokenization, bag of words @done(24-05-02 16:35)
+☐ 2. creating training data
+☐ 3. pytorch model and training
+☐ 4. save and load model and implement the chat
